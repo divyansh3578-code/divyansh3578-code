@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Divyansh Gupta
+💻 Full-Stack Developer | Java Programmer | DSA Enthusiast
 
-<!--
-**divyansh3578-code/divyansh3578-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer who enjoys building full-stack web applications, solving Data Structures & Algorithms problems, and learning new technologies.
 
-Here are some ideas to get you started:
+I mainly work with Java for programming and DSA and JavaScript/Node.js for backend and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+💻 Full-Stack Web Developer
+☕ Strong interest in Java & Data Structures and Algorithms
+🌐 Building applications using React, Node.js & Express.js
+🗄️ Working with both MongoDB and SQL databases
+🔧 Experienced with REST APIs and backend development
+🧠 Interested in problem solving, system design and software development
+🚀 Currently working on real-world projects and improving my development skills
+📚 Continuously learning new technologies and development practices
